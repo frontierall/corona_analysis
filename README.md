@@ -45,7 +45,9 @@
    * 코로나 백신 부작용 극복 (Link](https://cafe.naver.com/blue0bum4) - 코로나 백신 부작용 사례
    * 코로나 백신 부작용 피해자 모임 [Link](https://cafe.naver.com/covid2021) - 코로나 백신 피해자 모임
 
-
+### 해외
+   * CDC (Centers for Disease Control and Prevention) [Link](https://www.cdc.gov/)
+   * Who (World Health Organization) [Link](https://www.who.int/)
 
 
 
