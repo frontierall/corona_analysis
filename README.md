@@ -25,10 +25,25 @@
 ### 지난 팀 코로나 관련 자료
 ### 지난 팀 프로젝트 github [Link](https://github.com/LDJWJ/LikeLion_10th_DataCourse/tree/main/00_TeamProject_First_Corona)
 
-### 기타 정보 사이트
+## 기타 정보 사이트
  * 코로나19 실시간 상황판 [Link](https://coronaboard.kr/)
  * Bloomberg Covid-19 Tracker [Link](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/)
  * 질병관리청 보도자료 09/15 [Link](https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=716965&cg_code=&act=view&nPage=1)
+
+### [부작용 관련]
+   * 국민 청원 모음 (크베어 댕큰 코리아) [https://cafe.naver.com/querdenkenkorea/9525)
+   * 국민 청원 (보건복지) [Link](https://www1.president.go.kr/petitions/?c=41&only=1&page=1&order=1)
+   * 코로나 백신 부작용 극복 (Link](https://cafe.naver.com/blue0bum4) - 코로나 백신 부작용 사례
+   * 코로나 백신 부작용 피해자 모임 [Link](https://cafe.naver.com/covid2021) - 코로나 백신 피해자 모임
+
+### 해외
+   * CDC (Centers for Disease Control and Prevention) [Link](https://www.cdc.gov/nchs/data_access/ftp_data.htm)
+   * U.S. CDC Public Health datasets
+   * Who (World Health Organization) [Link](https://www.who.int/)
+   * HealthData.gov [Link](https://healthdata.gov/)
+   * U.S. Food and Drug Administration (FDA) - [Link](https://open.fda.gov/)
+ 
+### Dataset
  * kaggle dataset - Novel Corona Virus 2019 Dataset
    [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
  * kaggle dataset - COVID-19 Corona Virus India Dataset
@@ -39,15 +54,9 @@
  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/) - 코로나 등의 키워드 검색
  * 경기도 데이터 드림 [Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do) 
 
-### 기타 부작용 관련
-   * 국민 청원 모음 (크베어 댕큰 코리아) [https://cafe.naver.com/querdenkenkorea/9525)
-   * 국민 청원 (보건복지) [Link](https://www1.president.go.kr/petitions/?c=41&only=1&page=1&order=1)
-   * 코로나 백신 부작용 극복 (Link](https://cafe.naver.com/blue0bum4) - 코로나 백신 부작용 사례
-   * 코로나 백신 부작용 피해자 모임 [Link](https://cafe.naver.com/covid2021) - 코로나 백신 피해자 모임
 
-### 해외
-   * CDC (Centers for Disease Control and Prevention) [Link](https://www.cdc.gov/)
-   * Who (World Health Organization) [Link](https://www.who.int/)
+
+
 
 
 
