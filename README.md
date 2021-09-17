@@ -44,6 +44,7 @@
    * U.S. Food and Drug Administration (FDA) - [Link](https://open.fda.gov/)
  
 ### Dataset
+ * Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
  * kaggle dataset - Novel Corona Virus 2019 Dataset
    [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
  * kaggle dataset - COVID-19 Corona Virus India Dataset
