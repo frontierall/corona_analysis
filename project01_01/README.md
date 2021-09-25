@@ -23,7 +23,7 @@
 
 
 ### 관련 자료
-#### 자료 수집 및 정리 중 (~ing)
+#### 자료 수집 및 정리 중 (~ing) - 수집 정리하면서 알게된 내용을 바탕으로 의견이 편향될 수 있습니다.(일반의견과 다를 수 있음)
   * 코로나와 백신 전문가들의 의견 자료 정리(언론에서 보도되지 않는 내용 중심으로 스크랩)
     * 코로나 상황 및 부작용  (의견1) https://blog.naver.com/frontierall/222386644884
     * 코로나 상황 및 부작용 (의견2) https://blog.naver.com/frontierall/222452307731
@@ -39,6 +39,9 @@
     * 원본 출처 [Link](https://theexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/)
   * PCR 검사 관련
     * 미국 PCR CT값 관련 정리 [Link](https://blog.naver.com/frontierall/222359401609)
+  * 변이바이러스 관련
+    * 텔아비브 대학 연구 관련 정리 [Link](https://blog.naver.com/frontierall/222334106673)
+
 
 ## 기타 정보 사이트
  * 코로나19 실시간 상황판 [Link](https://coronaboard.kr/)
