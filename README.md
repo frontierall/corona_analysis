@@ -62,7 +62,15 @@
  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/) - 코로나 등의 키워드 검색
  * 경기도 데이터 드림 [Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do) 
 
-
+### 왜 상관관계가 양의 상관관계일까? 
+ * 데이터로 이해할 수 없는 통계에 대한 자료를 수집 후, 다각도 알아보기
+#### 자료 수집 및 정리 중 (~ing)
+  * 백신 전문가들의 의견 자료 정리
+    * 부작용 및 코로나 상황 (의견1) https://blog.naver.com/frontierall/222386644884
+    * 부작용 및 코로나 상황 (의견2) https://blog.naver.com/frontierall/222452307731
+    * 코로나, PCR, 집단면역 (의견3) https://blog.naver.com/frontierall/222512708227
+  * 백신에 사용된 최신 기술(나노입자) : https://blog.naver.com/frontierall/222398381850
+  * 백신 부작용 관련 : https://blog.naver.com/frontierall/222411090285
 
 
 
