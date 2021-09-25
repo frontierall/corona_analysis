@@ -24,16 +24,16 @@
 
 ### 관련 자료
 #### 자료 수집 및 정리 중 (~ing)
-  * 백신 전문가들의 의견 자료 정리
-    * 부작용 및 코로나 상황 (의견1) https://blog.naver.com/frontierall/222386644884
-    * 부작용 및 코로나 상황 (의견2) https://blog.naver.com/frontierall/222452307731
+  * 코로나와 백신 전문가들의 의견 자료 정리(언론에서 보도되지 않는 내용 중심으로 스크랩)
+    * 코로나 상황 및 부작용  (의견1) https://blog.naver.com/frontierall/222386644884
+    * 코로나 상황 및 부작용 (의견2) https://blog.naver.com/frontierall/222452307731
     * 코로나, PCR, 집단면역 (의견3) https://blog.naver.com/frontierall/222512708227
   * 백신에 적용된 기술
     * 백신에 사용된 최신 기술(나노입자) : https://blog.naver.com/frontierall/222398381850
     * 모더나 2017년 Ted 강연 : https://blog.naver.com/gluckjh7/222480698407
 
   * 백신 부작용 관련 : https://blog.naver.com/frontierall/222411090285
-  * 기저 질환 없는 순수 코로나 사망자 14명 : https://blog.naver.com/frontierall/222481702244
+  * [질병청 공개문서] 기저 질환 없는 순수 코로나 사망자 14명 : https://blog.naver.com/frontierall/222481702244
   * [뉴스] "백신 부작용은 인정, 보상금은 0원"…황당 안내문, 왜 : https://blog.naver.com/frontierall/222506913231
   * [해외뉴스] 코로나 사망자의 70%는 백신 접종자(뉴스 분석) : https://blog.naver.com/saranmul/222502272740
     * 원본 출처 [Link](https://theexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/)
