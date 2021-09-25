@@ -31,7 +31,10 @@
   * 백신에 사용된 최신 기술(나노입자) : https://blog.naver.com/frontierall/222398381850
   * 백신 부작용 관련 : https://blog.naver.com/frontierall/222411090285
   * 기저 질환 없는 순수 코로나 사망자 14명 : https://blog.naver.com/frontierall/222481702244
-
+  * [뉴스] "백신 부작용은 인정, 보상금은 0원"…황당 안내문, 왜 : https://blog.naver.com/frontierall/222506913231
+  * [해외뉴스] 코로나 사망자의 70%는 백신 접종자(뉴스 분석) : https://blog.naver.com/saranmul/222502272740
+    * 원본 출처 [Link](https://theexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/)
+    * 
 
 ## 기타 정보 사이트
  * 코로나19 실시간 상황판 [Link](https://coronaboard.kr/)
