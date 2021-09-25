@@ -29,7 +29,7 @@
 ### 03. 왜 상관관계가 양의 상관관계일까? 
  * 데이터로 이해할 수 없는 통계에 대한 자료를 수집 후, 다각도 알아보기
 
-### 04. 의문에 대한 추가 상세 분석으로 [이동하기](https://github.com/frontierall/corona_analysis/tree/main/project01_01)
+### 04. 의문에 대한 자료 리서치 및 추가 상세 분석 [이동하기](https://github.com/frontierall/corona_analysis/tree/main/project01_01)
 
 ## 관련 자료
 ### 지난 팀 코로나 관련 자료
