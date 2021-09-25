@@ -16,21 +16,20 @@
    * xxx_datamerge_xxx_ : 수집 데이터 전처리 및 병합 데이터 셋 
 
 ### 02 데이터 수집 후, 상관관계 확인
-
-### 03. 실행 코드 - 데이터 수집하기 - 웹
+#### 2-1 실행 코드 - 데이터 수집하기 - 웹
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/01_dataScraping_corona02.html) 
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/02_dataScraping_bloomberg.html) 
 
-### 03. 실행 코드 - 데이터 처리 및 합치기 - 백신 접종률과 인구당 확진자 비율 상관관계 확인 
+#### 2-2 실행 코드 - 데이터 처리 및 합치기 - 백신 접종률과 인구당 확진자 비율 상관관계 확인 
  * 데이터 처리 및 병합 - 상관관계 확인 [html](https://frontierall.github.io/corona_analysis/html_pdf/03_corona_vaccine_merge.html) 
 
-### 확인결과
+### 확인 결과
  * 지금까지의 백신 접종률과 인구당 확진자 비율은 0.58정도(2021/09 기준)으로 양의 상관관계를 갖는다.
 
-### 왜 상관관계가 양의 상관관계일까? 
+### 03. 왜 상관관계가 양의 상관관계일까? 
  * 데이터로 이해할 수 없는 통계에 대한 자료를 수집 후, 다각도 알아보기
 
-### 의문에 대한 추가 상세 분석으로 [이동하기](https://github.com/frontierall/corona_analysis/tree/main/project01_01)
+### 04. 의문에 대한 추가 상세 분석으로 [이동하기](https://github.com/frontierall/corona_analysis/tree/main/project01_01)
 
 ## 관련 자료
 ### 지난 팀 코로나 관련 자료
