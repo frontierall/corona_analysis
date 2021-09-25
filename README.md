@@ -15,7 +15,7 @@
    * xxx_vaccine_xx : 백신 수집 데이터
    * xxx_datamerge_xxx_ : 수집 데이터 전처리 및 병합 데이터 셋 
 
-### 02 데이터 수집 후, 상관관계 확인
+### 02 데이터 수집 후, 기본 분석 - 상관관계 확인
 #### 2-1 실행 코드 - 데이터 수집하기 - 웹
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/01_dataScraping_corona02.html) 
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/02_dataScraping_bloomberg.html) 
