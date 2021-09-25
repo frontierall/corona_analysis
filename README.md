@@ -9,7 +9,7 @@
  * 코로나19 실시간 상황판 : https://coronaboard.kr/
  * Bloomberg Covid-19 Tracker : https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/
  
-#### 파이썬의 수집 데이터 
+#### 수집된 데이터 
  * https://github.com/frontierall/corona_analysis/tree/main/data
    * xxx_corona_xx : 코로나 수집 데이터
    * xxx_vaccine_xx : 백신 수집 데이터
