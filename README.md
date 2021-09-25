@@ -17,13 +17,27 @@
 
 ### 02 데이터 수집 후, 상관관계 확인
 
-#### 03. 실행 코드 - 데이터 수집하기 - 웹
+### 03. 실행 코드 - 데이터 수집하기 - 웹
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/01_dataScraping_corona02.html) 
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/02_dataScraping_bloomberg.html) 
 
-#### 03. 실행 코드 - 데이터 처리 및 합치기 - 백신 접종률과 인구당 확진자 비율 상관관계 확인 
+### 03. 실행 코드 - 데이터 처리 및 합치기 - 백신 접종률과 인구당 확진자 비율 상관관계 확인 
  * 데이터 처리 및 병합 - 상관관계 확인 [html](https://frontierall.github.io/corona_analysis/html_pdf/03_corona_vaccine_merge.html) 
 
+### 확인결과
+ * 지금까지의 백신 접종률과 인구당 확진자 비율은 0.58정도(2021/09 기준)으로 양의 상관관계를 갖는다.
+
+### 왜 상관관계가 양의 상관관계일까? 
+ * 데이터로 이해할 수 없는 통계에 대한 자료를 수집 후, 다각도 알아보기
+
+#### 자료 수집 및 정리 중 (~ing)
+  * 백신 전문가들의 의견 자료 정리
+    * 부작용 및 코로나 상황 (의견1) https://blog.naver.com/frontierall/222386644884
+    * 부작용 및 코로나 상황 (의견2) https://blog.naver.com/frontierall/222452307731
+    * 코로나, PCR, 집단면역 (의견3) https://blog.naver.com/frontierall/222512708227
+  * 백신에 사용된 최신 기술(나노입자) : https://blog.naver.com/frontierall/222398381850
+  * 백신 부작용 관련 : https://blog.naver.com/frontierall/222411090285
+  * 기저 질환 없는 순수 코로나 사망자 14명 : https://blog.naver.com/frontierall/222481702244
 
 ## 관련 자료
 ### 지난 팀 코로나 관련 자료
