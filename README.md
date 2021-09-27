@@ -19,12 +19,17 @@
 #### 2-1 실행 코드 - 데이터 수집하기 - 웹
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/01_dataScraping_corona02.html) 
  * 데이터 수집 [html](https://frontierall.github.io/corona_analysis/html_pdf/02_dataScraping_bloomberg.html) 
-
-#### 2-2 실행 코드 - 데이터 처리 및 합치기 - 백신 접종률과 인구당 확진자 비율 상관관계 확인 
  * 데이터 처리 및 병합 - 상관관계 확인 [html](https://frontierall.github.io/corona_analysis/html_pdf/03_corona_vaccine_merge.html) 
-
+ * 나라별 백신 접종률과 인구당확진자비율/사망률/위중증률 상관관계 확인 [html](https://frontierall.github.io/corona_analysis/html_pdf/06_corona_analysis.html) 
+ 
 ### 확인 결과
- * 지금까지의 백신 접종률과 인구당 확진자 비율은 0.58정도(2021/09 기준)으로 양의 상관관계를 갖는다.
+ * (2021/09/21 기준)지금까지의 백신 접종률과 인구당 확진자 비율은 0.58정도(2021/09 기준)으로 양의 상관관계를 갖는다.
+   * 왜 그런지 추가 확인 필요.
+ * (2021/09/21 기준) 위중증의 값이 없는 것을 제외한 131개국의 확인 결과 
+   * 백신 접종률과 인구당 확진자 비율은 0.27정도 으로 양의 상관관계를 갖는다.
+    * 왜 그런지 추가 확인 필요.
+ * (2021/09/21 기준) 인구 200만 이상의 나라 확인 결과
+   
 
 ### 03. 왜 상관관계가 양의 상관관계일까? 
  * 데이터로 이해할 수 없는 통계에 대한 자료를 수집 후, 다각도 알아보기
